@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkTest", "FrameworkTest\FrameworkTest.csproj", "{DB53A712-132C-4882-877D-5F8A6D057067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB53A712-132C-4882-877D-5F8A6D057067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB53A712-132C-4882-877D-5F8A6D057067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB53A712-132C-4882-877D-5F8A6D057067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB53A712-132C-4882-877D-5F8A6D057067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6093A37-61A4-4281-A75D-F47229707883}
+	EndGlobalSection
+EndGlobal
